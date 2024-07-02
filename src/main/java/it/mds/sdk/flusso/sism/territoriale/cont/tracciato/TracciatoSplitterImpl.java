@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.flusso.sism.territoriale.cont.tracciato;
 
 import it.mds.sdk.flusso.sism.territoriale.cont.parser.regole.RecordDtoSismTerritorialeContatti;
